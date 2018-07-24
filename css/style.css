@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#header{
+    overflow: auto;
+}
+#header-content{
+    width:960px;
+    overflow: auto;
+    margin: auto;   
+}
+#title{
+    background: teal;
+    color: white;
+    font-size: 1.8em;
+    width: 30%;
+    text-align: center;
+    padding: 10px;
+    float:left;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#links{
+    width: 30%;
+    float:right;
+    padding: 20px;
+}
+
+#links a{
+    margin: 10px;
+    color: gray;
+}
